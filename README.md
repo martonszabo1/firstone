@@ -1,2 +1,2 @@
 # firstone
-First time using GitHub
+Hi I'm new to this.
